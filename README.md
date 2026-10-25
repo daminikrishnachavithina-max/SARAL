@@ -1,4 +1,15 @@
 # SARAL — For Every Citizen
+## 🚀 Live Demo
+
+**Try SARAL:** https://dark-women-join.loca.lt
+
+SARAL helps citizens discover support and opportunities through a simple, accessible interface.
+
+> **Note:** This is a temporary demo hosted from a local computer. It is accessible only while the application server and tunnel are running.
+
+## 🎥 Project Demo Video
+
+[Watch the SARAL Demo](https://drive.google.com/file/d/1f24F4X0xSERzG1HYNa2vS3D60SiTVoaS/view?usp=drive_link)
 
 **A citizen support and opportunity discovery platform**
 
