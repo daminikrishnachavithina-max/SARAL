@@ -1,0 +1,21 @@
+﻿{
+  "opportunities": [
+    {
+      "name": "DEMO Merit Scholarship (sample, not real)",
+      "org_name": "Demo Organization (sample)",
+      "description": "A made-up scheme used only to test SARAL's update system.",
+      "category": "education",
+      "official_url": "http://127.0.0.1:8001/demo-scheme",
+      "apply_url": "http://127.0.0.1:8001/apply",
+      "deadline": "2027-01-15",
+      "application_status": "open",
+      "funding": "Sample amount",
+      "documents": ["Marksheet", "Income certificate"],
+      "criteria": [
+        {"field": "education_level", "operator": "in", "value": ["undergraduate", "postgraduate"], "label": "Studying at degree level"},
+        {"field": "income", "operator": "lte", "value": 150000, "label": "Family income up to Rs 150000 per year"},
+        {"field": "marks_percent", "operator": "gte", "value": 60, "label": "At least 60 percent in the last exam"}
+      ]
+    }
+  ]
+}
